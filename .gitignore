@@ -1,0 +1,8 @@
+# Ignorar a pasta .vs
+.vs/
+
+# Ignorar arquivos temporários
+*.tmp
+
+# Ignorar arquivos de configuração específicos
+config.ini
